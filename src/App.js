@@ -41,9 +41,9 @@ function Header() {
 function HomePage() {
   const apps = [
     {
-      name: 'TR260E',
+      name: 'Easy Money Tracker & Budget',
       image: bannerApp,
-      link: 'https://play.google.com/store/apps/details?id='
+      link: 'https://play.google.com/store/apps/details?id=com.moneysaving.dailyexpenses.budgetplanner.trackmoney'
     }
   ];
 
